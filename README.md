@@ -13,14 +13,14 @@
        alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on **Electronic Store App**
-- 🌱 I’m currently learning **DSA & System Design**
-- 👯 I’m looking to collaborate on **Open source Java enterprise backend application**
+- 🔭 I’m currently working on **Electronic Store App**<br><br>
+- 🌱 I’m currently learning **DSA & System Design**<br><br>
+- 👯 I’m looking to collaborate on **Open source Java enterprise backend application**<br><br>
 - 👨‍💻 All of my projects are available at  
-  <a href="https://github.com/yogesh-bhagat31">https://github.com/yogesh-bhagat31</a>
-- 💬 Ask me about **Java, Spring Boot, Microservices, DSA**
-- 📫 How to reach me **yogesh.bhagat.b31@gmail.com**
-- ⚡ Fun fact **Cool bro! keep it simple!**
+  <a href="https://github.com/yogesh-bhagat31">https://github.com/yogesh-bhagat31</a><br><br>
+- 💬 Ask me about **Java, Spring Boot, Microservices, DSA**<br><br>
+- 📫 How to reach me **yogesh.bhagat.b31@gmail.com**<br><br>
+- ⚡ Fun fact **Cool bro! keep it simple!**<br><br>
 
 <br clear="right"/>
 
